@@ -1,0 +1,30 @@
+#name_box {
+    background-color: #4aaaa5;
+    padding: 30px;
+    width: fit-content;
+    float: left;
+}
+.white_text {
+    color: #ffffff;
+}
+.img_container {
+    position: relative;
+}
+.label {
+    position: absolute; 
+    bottom: 50px; 
+    left: 30px; 
+    width: 300px; 
+    height: 75px; 
+    background-color: #4aaaa5;
+}
+body {
+    background-color: #dddddd;
+}
+.about_box {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
